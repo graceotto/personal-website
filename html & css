@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8">
+  <title>ottomatique</title>
+  <style>
+    body {
+      text-align: center;
+      background: url(https://i.imgur.com/HsKtYnY.png);
+      background-size: cover;
+      background-position: center;
+    }
+    h1 {
+      text-align: center;
+      color: black;
+      font-family: ocram;
+      font-size: 20px;
+    }
+    .image1 {
+      padding-top: 50px;
+      width: auto;
+      max-width: 50%;
+      height: auto;
+    }
+    .image2 {
+      padding-bottom: 60px;
+      padding-top: 30px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: auto;
+      max-width: 45%;
+      height: auto;
+    }
+    a.button {
+      font-family: ocram;
+      font-size: 15px;
+      margin: 30px;
+      text-decoration: none;
+      background-color: #EEEEEE;
+      color: #333333;
+      padding: 2px 6px 2px 6px;
+      border-top: 1px solid #CCCCCC;
+      border-right: 1px solid #333333;
+      border-bottom: 1px solid #333333;
+      border-left: 1px solid #CCCCCC;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: red;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <img src="https://i.imgur.com/3EcuGzg.png" class="image1">
+  <h1>artist & student software engineer</h1>
+  <img src="https://i.imgur.com/ZN9f8bx.png" class="image2">
+  <a href="https://www.instagram.com/0ttomatique/" class="button" target="_blank">instagram</a>
+  <a href="https://0ttomatique.com/" class="button" target="_blank">store</a>
+  <a href="https://www.linkedin.com/in/grace-otto-12031a1b3/" class="button" target  ="_blank">linkedin</a>
+  <a href="mailto:grace.otto26@gmail.com" class="button">contact</a>
+  <a href="https://github.com/graceotto?tab=repositories" class="button" target="_blank">github</a>
+</body>
