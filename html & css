@@ -16,7 +16,7 @@
       font-size: 20px;
     }
     .image1 {
-      padding-top: 50px;
+      padding-top: 40px;
       width: auto;
       max-width: 50%;
       height: auto;
@@ -63,5 +63,5 @@
   <a href="https://0ttomatique.com/" class="button" target="_blank">store</a>
   <a href="https://www.linkedin.com/in/grace-otto-12031a1b3/" class="button" target  ="_blank">linkedin</a>
   <a href="mailto:grace.otto26@gmail.com" class="button">contact</a>
-  <a href="https://github.com/graceotto?tab=repositories" class="button" target="_blank">github</a>
+  <a href="https://github.com/graceotto" class="button" target="_blank">github</a>
 </body>
